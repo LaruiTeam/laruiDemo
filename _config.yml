@@ -7,5 +7,5 @@ email: 1174525208@qq.com
 language: zh-CN
 # URL
 url: https://laruiteam.github.io/index.html
-root: "./demo/pages/"
+root: /demo/pages/
 
