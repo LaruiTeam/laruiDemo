@@ -1,1 +1,18 @@
 theme: jekyll-theme-merlot
+# 站点信息
+title:互联网零件仓库
+subtitle: 精致的组件、扁平化的样式、灵活的工具方法
+author:liangshuyi
+email:1174525208@qq.com
+language: zh-CN
+# URL
+url:https://laruiteam.github.io/index.html
+root:./demo/pages/
+
+# 部署配置
+## Docs: http://hexo.io/docs/deployment.html
+deploy:
+  type:github
+  repo:https://github.com/LaruiTeam/laruiDemo
+  branch:master
+  message:larui仓库demo
