@@ -13,6 +13,7 @@ root: "./demo/pages/"
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type:git
-  repo: https://github.com/LaruiTeam/laruiDemo
+  repo: 
+    github:https://github.com/LaruiTeam/laruiDemo.git
   branch: master
   message: "larui仓库demo"
