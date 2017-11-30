@@ -9,11 +9,3 @@ language: zh-CN
 url: https://laruiteam.github.io/index.html
 root: "./demo/pages/"
 
-# 部署配置
-## Docs: http://hexo.io/docs/deployment.html
-deploy:
-  type:git
-  repo: 
-    github:https://github.com/LaruiTeam/laruiDemo.git
-  branch: master
-  message: "larui仓库demo"
